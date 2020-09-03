@@ -61,10 +61,8 @@
  .right img{
      width: 124%;
  }
- .img-2{
-     display:none;
- }
- .txt-2{
+
+ .none{
      display: none;
  }
  .btns{
