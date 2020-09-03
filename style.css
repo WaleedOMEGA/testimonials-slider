@@ -47,9 +47,43 @@
     text-align: justify;
     color:hsl(240, 38%, 20%)
  }
+ .left h2{
+     color:hsl(240, 38%, 20%)
+ }
+ .left h2 span{
+     color:hsl(240, 18%, 77%)
+ }
  .right{
-     width:30%;
-     background-color: aqua;
-     height: 200px;
-     margin-top:110px;
+     width:25%;
+     height: 240px;
+     margin-top:20px;
+ }
+ .right img{
+     width: 124%;
+ }
+ .img-2{
+     display:none;
+ }
+ .txt-2{
+     display: none;
+ }
+ .btns{
+     margin-left: 30px;
+     margin-top: -20px;
+ }
+ .btns button{
+         background-color: white;
+         margin: -3px;
+         height: 35px;
+         cursor: pointer;
+ }
+ .next{
+     border-top-right-radius: 15px;
+     border-bottom-right-radius: 15px;
+     border-left: 0;
+ }
+ .prev{
+     border-top-left-radius: 15px;
+     border-bottom-left-radius: 15px;
+     border-right: 0;
  }
